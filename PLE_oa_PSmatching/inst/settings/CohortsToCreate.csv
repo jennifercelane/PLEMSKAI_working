@@ -1,0 +1,6 @@
+atlasId,atlasName,cohortId,name
+35,[MSK_AI] target_ai,35,MSK_AI_target_ai
+102,[MSK_AI]comparator_tamoxifen,102,MSK_AIcomparator_tamoxifen
+282,[MSK_AI]outcome_oa_all_conditiononly_agesex,282,MSK_AIoutcome_oa_all_conditiononly_agesex
+343,[MSK_AI] target_ai_drugduration_noBisphos,343,MSK_AI_target_ai_drugduration_noBisphos
+344,[MSK_AI]comparator_tamoxifen_drugduration_noBisphos,344,MSK_AIcomparator_tamoxifen_drugduration_noBisphos
