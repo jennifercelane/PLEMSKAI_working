@@ -291,3 +291,76 @@ targetId,comparatorId,outcomeId,outcomeName,type
 102,37,200845,Urgent desire to urinate,outcome
 102,37,314754,Wheezing,outcome
 102,37,440193,Wristdrop,outcome
+37,36,439935,Abnormal posture,outcome
+37,36,436409,Abnormal pupil,outcome
+37,36,443702,Abnormal response to nerve stimulation,outcome
+37,36,443585,Abrasion and/or friction burn of multiple sites,outcome
+37,36,44783954,Acid reflux,outcome
+37,36,257011,Acute upper respiratory infection,outcome
+37,36,4303805,Allergic reaction to bite and/or sting,outcome
+37,36,438391,Amino acid transport disorder,outcome
+37,36,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
+37,36,4103642,Amputated toe,outcome
+37,36,76725,Anal fissure,outcome
+37,36,4169095,Bradycardia,outcome
+37,36,4195873,Breath smells unpleasant,outcome
+37,36,256717,Bronchospasm,outcome
+37,36,434327,Cannabis abuse,outcome
+37,36,76492,Cellulitis of digit,outcome
+37,36,42709838,Cellulitis of lower limb,outcome
+37,36,434490,Chill,outcome
+37,36,196454,Colostomy and enterostomy malfunction,outcome
+37,36,4201390,Colostomy present,outcome
+37,36,438624,Complication of renal dialysis,outcome
+37,36,138604,"Contusion of face, scalp and neck, excluding eye(s)",outcome
+37,36,201606,Crohn's disease,outcome
+37,36,4155495,Crush injury of thumb,outcome
+37,36,433163,Deficiency of macronutrients,outcome
+37,36,435796,Dehydration,outcome
+37,36,4335747,Disorder of inner ear,outcome
+37,36,372329,Dissociated deviation,outcome
+37,36,31317,Dysphagia,outcome
+37,36,433111,Effects of hunger,outcome
+37,36,437448,Exhaustion due to excessive exertion,outcome
+37,36,374801,Foreign body in ear,outcome
+37,36,4299128,Full thickness burn,outcome
+37,36,4163735,Hemochromatosis,outcome
+37,36,195562,Hemorrhoids,outcome
+37,36,4295287,Hypercoagulability state,outcome
+37,36,4058388,Hypertrophic scar,outcome
+37,36,440072,Hypogammaglobulinemia,outcome
+37,36,432596,Immune defect,outcome
+37,36,374375,Impacted cerumen,outcome
+37,36,4090353,Incompetent urethral closure mechanism,outcome
+37,36,197675,Incontinence of feces,outcome
+37,36,434872,Infection by Trichomonas,outcome
+37,36,440053,Infestation by insect,outcome
+37,36,434063,Jaw to cranial base anomaly,outcome
+37,36,201620,Kidney stone,outcome
+37,36,377873,Lid lag,outcome
+37,36,435516,Lipoprotein deficiency disorder,outcome
+37,36,4210746,Localized amyloidosis,outcome
+37,36,4051630,Malingering,outcome
+37,36,439795,Minimal cognitive impairment,outcome
+37,36,434005,Morbid obesity,outcome
+37,36,377572,Noise effects on inner ear,outcome
+37,36,375277,Non-infectious pinna disorders,outcome
+37,36,381302,Obstruction of Eustachian tube,outcome
+37,36,439035,Otosclerosis,outcome
+37,36,192957,Perforation of bile duct,outcome
+37,36,375292,Perforation of tympanic membrane,outcome
+37,36,78162,Peripheral vertigo,outcome
+37,36,437092,Physiological development failure,outcome
+37,36,79936,Polyuria,outcome
+37,36,4080568,Problem behavior,outcome
+37,36,138821,Seborrhea,outcome
+37,36,25518,Sickle cell trait,outcome
+37,36,4248728,Snoring,outcome
+37,36,255302,Spontaneous pneumothorax,outcome
+37,36,4129395,Traumatic dislocation of joint of thumb,outcome
+37,36,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
+37,36,195590,Urethral stricture,outcome
+37,36,193326,Urge incontinence of urine,outcome
+37,36,200845,Urgent desire to urinate,outcome
+37,36,314754,Wheezing,outcome
+37,36,440193,Wristdrop,outcome
